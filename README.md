@@ -69,8 +69,17 @@ nav {
 }
 ```
 ## Check list
+
 - [x] Home page
 - [x] About page
 - [] Contact page
 - [] Service page
 
+
+## Link
+
+CSS framework [Tailwindcss](https://kahoot.it/)
+
+## Image dashboard
+
+![Dashboard](contemporary-ui-design@2x.jpg)
